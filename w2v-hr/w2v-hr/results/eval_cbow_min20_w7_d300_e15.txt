@@ -1,0 +1,9 @@
+model=cbow
+min_count=20 window=7 vector_size=300 epochs=15
+overall=0.7153689992834965
+
+adj_gender_m_f	0.726194	11569	15931
+superlative	0.562500	297	528
+comparative	0.391304	108	276
+roles_gender	0.538462	7	13
+Total accuracy	0.715369	11981	16748
