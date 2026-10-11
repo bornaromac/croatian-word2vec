@@ -1,9 +1,0 @@
-model=sg
-min_count=20 window=7 vector_size=300 epochs=15
-overall=0.629985669930738
-
-adj_gender_m_f	0.647229	10311	15931
-superlative	0.285985	151	528
-comparative	0.304348	84	276
-roles_gender	0.384615	5	13
-Total accuracy	0.629986	10551	16748
